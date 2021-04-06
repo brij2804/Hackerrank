@@ -1,5 +1,6 @@
-## Arrays
+# Data Structures
 ***
+## Arrays
 
 |Problem Name|Problem Link|Language|Solution Link|
 ---|---|---|---
