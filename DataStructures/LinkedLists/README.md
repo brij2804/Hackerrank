@@ -15,3 +15,5 @@
 |Delete duplicate-value nodes from a sorted linked list|[Problem](https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem)|java|[Solution](./DeleteDuplicateValueNodesFromASortedLinkedList.java)|
 |Cycle Detection|[Problem](https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem)|java|[Solution](./CycleDetection.java)|
 |Find Merge Point of Two Lists|[Problem](https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)|java|[Solution](./FindMergePointOfTwoLists.java)|
+|Inserting a Node Into a Sorted Doubly Linked List|[Problem](https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)|java|[Solution](./InsertingANodeIntoASortedDoublyLinkedList.java)|
+|Reverse a doubly linked list|[Problem](https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)|java|[Solution](./ReverseADoublyLinkedList.java)|
