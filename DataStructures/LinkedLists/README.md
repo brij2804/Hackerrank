@@ -9,3 +9,5 @@
 |Delete a Node|[Problem](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem)|java|[Solution](./DeleteaNode.java)|
 |Print in Reverse|[Problem](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)|java|[Solution](./PrintInReverse.java)|
 |Reverse a linked list|[Problem](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem)|java|[Solution](./ReverseaLinkedList.java)|
+|Compare two linked lists|[Problem](https://www.hackerrank.com/challenges/compare-two-linked-lists/problem)|java|[Solution](./CompareTwoLinkedLists.java)|
+|Merge two sorted linked lists|[Problem](https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem)|java|[Solution](./MergeTwoSortedLinkedLists.java)|
