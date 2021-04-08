@@ -1,4 +1,4 @@
-## LinkedLists
+## Heap
 
 |Problem Name|Problem Link|Language|Solution Link|
 ---|---|---|---
