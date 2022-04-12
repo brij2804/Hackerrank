@@ -12,6 +12,11 @@
 |Running Time of Algorithms|[Problem](https://www.hackerrank.com/challenges/runningtime/problem)|java|[Solution](./RunningTimeofAlgorithms.java)|
 |Find the Median|[Problem](https://www.hackerrank.com/challenges/find-the-median/problem)|java|[Solution](./FindtheMedian.java)|
 
+## Search
+
+|Problem Name|Problem Link|Language|Solution Link|
+---|---|---|---
+|Sherlock and Array|[Problem](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|java|[Solution](./SherlockandArray.java)|
 
 
 
