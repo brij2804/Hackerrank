@@ -22,7 +22,7 @@
 |Tree: Postorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-postorder-traversal/problem)|java|[Solution](./Trees/PostorderTraversal.java)|
 |Tree: Preorder Traversal|[Problem](https://www.hackerrank.com/challenges/tree-preorder-traversal/problem)|java|[Solution](./Trees/PreorderTraversal.java)|
 |Binary Search Tree : Lowest Common Ancestor|[Problem](https://www.hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem)|java|[Solution](./Trees/BinarySearchTreeLowestCommonAncestor.java)|
-|Swap Nodes|[Problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|java|[Solution](./Trees/SwapNodes.java)|
+|Swap Nodes|[Problem](https://www.hackerrank.com/challenges/swap-nodes-algo/problem)|java|[Solution](../../SwapNodes.java)|
 
 ## LinkedLists
 
