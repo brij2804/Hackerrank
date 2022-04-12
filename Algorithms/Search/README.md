@@ -1,4 +1,4 @@
-## Sorting
+## Search
 
 |Problem Name|Problem Link|Language|Solution Link|
 ---|---|---|---
